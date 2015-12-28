@@ -4,8 +4,8 @@
 
 # PPTS
 
-1. [Hybrid App下监控与极限优化](./ppts/Hybrid App下监控与极限优化-Qcon.pdf) For Qcon By [河伯](https://github.com/herbertliu)
-2. [移动Web优化之道](./ppts/移动Web优化之道.pdf) For StuQ By [河伯](https://github.com/herbertliu)
+1. [Hybrid App下监控与极限优化](./ppts/Hybrid App下监控与极限优化-Qcon.pdf) For [Qcon](http://2015.qconshanghai.com/speakers/201931) By [河伯](https://github.com/herbertliu)
+2. [移动Web优化之道](./ppts/移动Web优化之道.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 
 
 
