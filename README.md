@@ -9,7 +9,7 @@
 3. [大前端优化之路](./ppts/大前端优化之路-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 4. [夯实移动Web优化基础知识](./ppts/夯实移动Web优化基础知识-StuQ.pdf) For [StuQ](http://www.stuq.org/course/lecturers) By [河伯](https://github.com/herbertliu)
 5. [移動娛樂直播下監控與極限優化](./ppts/移动娱乐直播下监控与极限优化-ModernWeb.pdf) For [台湾Modern Web大会](http://modernweb.tw/speaker.html#s1036) By [河伯](https://github.com/herbertliu)
-6. [移动直播技术的极限优化与高效研发](./ppts/移动直播技术的极限优化与高效研发-开源中国.pdf) For [开源中国] By [河伯](https://github.com/herbertliu)
+6. [移动直播技术的极限优化与高效研发](./ppts/移动直播技术的极限优化与高效研发.pdf) For [开源中国] By [河伯](https://github.com/herbertliu)
 
 
 
